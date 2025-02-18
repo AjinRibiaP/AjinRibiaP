@@ -15,11 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinRibiaP&layout=compact&theme=radical)
 
 
 ## 🏆 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajin_Ribia?theme=dark&font=Abel&ext=heatmap)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ajin_Ribia&color=blue)
 
