@@ -9,10 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajin-ribia-p-36a62a255/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Ajin_Ribia/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AjinRibiaP)
 
 
 ## 📊 Most Used Languages:
@@ -20,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Abel&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajin_Ribia?theme=dark&font=Abel&ext=heatmap)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ajin_Ribia&color=blue)
 
