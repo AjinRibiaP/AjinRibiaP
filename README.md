@@ -21,4 +21,12 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajin_Ribia?theme=dark&font=Abel&ext=heatmap)
 
+## 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+
 
